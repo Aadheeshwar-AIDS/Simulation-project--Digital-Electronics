@@ -18,7 +18,7 @@ The conversion from binary to Gray code can be achieved using a recursive algori
 
 # LOGIC DIAGRAM
 
-![output](out3.png)
+![output](out3.jpg)
 
 # NETLIST DIAGRAM
 
